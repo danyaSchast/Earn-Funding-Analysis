@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37411.7 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Earn&Funding Analysis", "Earn&Funding Analysis.csproj", "{B208E227-6FCB-4639-8A12-5180E1F98B09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B208E227-6FCB-4639-8A12-5180E1F98B09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B208E227-6FCB-4639-8A12-5180E1F98B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B208E227-6FCB-4639-8A12-5180E1F98B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B208E227-6FCB-4639-8A12-5180E1F98B09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AAD3D16-316D-43CE-B070-4B5930ADB69A}
+	EndGlobalSection
+EndGlobal
